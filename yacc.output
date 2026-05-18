@@ -1,19 +1,4 @@
-Terminals unused in grammar
 
-    STR_CONST
-    ERR_TOKEN
-    SWITCH
-    CASE
-    GOTO
-    DO
-    BITAND
-    BITOR
-    BITXOR
-    BITNOT
-    SHL
-    SHR
-    PLUSEQ
-    MINUSEQ
     MULEQ
     DIVEQ
     MODEQ
