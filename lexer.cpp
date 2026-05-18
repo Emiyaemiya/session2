@@ -1,5 +1,4 @@
 
-#line 4 "frontend/parser/lexer.cpp"
 
 #define YY_INT_ALIGNED short int
 

@@ -1,10 +1,4 @@
 
-
-%define api.namespace { FE }
-%define api.parser.class { YaccParser }
-%define api.token.constructor
-%define api.value.type variant
-%define parse.assert
 %defines
 
 %code requires
