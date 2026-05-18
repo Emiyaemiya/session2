@@ -1,5 +1,4 @@
-%skeleton "lalr1.cc"
-%require "3.2"
+
 
 %define api.namespace { FE }
 %define api.parser.class { YaccParser }

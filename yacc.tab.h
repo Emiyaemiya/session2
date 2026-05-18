@@ -1,6 +1,4 @@
-// A Bison parser, made by GNU Bison 3.8.2.
 
-// Skeleton interface for Bison LALR(1) parsers in C++
 
 // Copyright (C) 2002-2015, 2018-2021 Free Software Foundation, Inc.
 
